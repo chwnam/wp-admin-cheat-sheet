@@ -1,0 +1,9 @@
+#label-skip-primary {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+#bulk_wacs_primary,
+#quick_wacs_primary {
+    width: 10em;
+}
